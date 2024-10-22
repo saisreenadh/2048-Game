@@ -1,0 +1,1 @@
+🎮 2048 Game in Java: Jump into the addictive 2048 game with this stylish GUI built using Java and Swing! 🎉 Slide your tiles using WASD or arrow keys, combine them, and chase that elusive 2048 tile! Plus, you can undo moves—everyone deserves a second chance! 😉 Test your skills and challenge your friends!
